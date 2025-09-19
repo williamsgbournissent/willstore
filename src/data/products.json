@@ -1,0 +1,241 @@
+{
+  "p1": {
+    "id": "p1",
+    "title": "Smart TV Samsung 55\" 4K UHD",
+    "description": "Televisor Smart TV Samsung de 55 pulgadas con resolución 4K UHD, tecnología LED, HDR10+, sistema operativo Tizen y control por voz.",
+    "price": 349999,
+    "discountPercentage": 15,
+    "stock": 25,
+    "brand": "Samsung",
+    "category": "televisores",
+    "thumbnail": "https://unsplash.com/photos/a-living-room-with-a-large-television-on-a-wall-AL9YkVEHc3U/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-living-room-with-a-large-flat-screen-tv-QiF_y3JXgh0/download?force=true",
+      "https://unsplash.com/photos/a-flat-screen-tv-sitting-on-top-of-a-wooden-table-TLTrVOD4cbA/download?force=true",
+      "https://unsplash.com/photos/a-living-room-with-a-flat-screen-tv-on-the-wall-lUbPydZVmGs/download?force=true"
+    ]
+  },
+  "p2": {
+    "id": "p2",
+    "title": "Smart TV LG 50\" 4K UHD",
+    "description": "Televisor Smart TV LG de 50 pulgadas con resolución 4K UHD, tecnología LED, HDR, sistema operativo webOS y control por voz compatible con Google Assistant y Alexa.",
+    "price": 329999,
+    "discountPercentage": 10,
+    "stock": 18,
+    "brand": "LG",
+    "category": "televisores",
+    "thumbnail": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-flat-screen-tv-gNhaTTZtwVE/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-living-room-with-a-large-flat-screen-tv-1CuIbRUTMn0/download?force=true",
+      "https://unsplash.com/photos/a-flat-screen-tv-sitting-on-top-of-a-wooden-stand-IJIloWOvZXo/download?force=true",
+      "https://unsplash.com/photos/a-television-mounted-to-a-wall-in-a-room-EqWnthd1BCA/download?force=true"
+    ]
+  },
+  "p3": {
+    "id": "p3",
+    "title": "iPhone 15 Pro 256GB",
+    "description": "iPhone 15 Pro con 256GB de almacenamiento, chip A17 Pro, pantalla Super Retina XDR de 6.1 pulgadas, sistema de cámaras Pro, Face ID y carga rápida.",
+    "price": 899999,
+    "discountPercentage": 5,
+    "stock": 10,
+    "brand": "Apple",
+    "category": "smartphones",
+    "thumbnail": "https://unsplash.com/photos/a-hand-holds-a-smartphone-displaying-its-screen-no6Kv3BVqYM/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-hWSNT_Pp4x4/download?force=true",
+      "https://unsplash.com/photos/a-hand-holds-up-a-smartphone-_Q5HFTpOvDI/download?force=true",
+      "https://unsplash.com/photos/a-person-is-holding-a-smartphone-vmGffGNNYwM/download?force=true"
+    ]
+  },
+  "p4": {
+    "id": "p4",
+    "title": "Samsung Galaxy S23 Ultra 512GB",
+    "description": "Samsung Galaxy S23 Ultra con 512GB de almacenamiento, procesador Snapdragon 8 Gen 2, pantalla Dynamic AMOLED 2X de 6.8 pulgadas, sistema de cámaras de 200MP y S Pen incluido.",
+    "price": 849999,
+    "discountPercentage": 12,
+    "stock": 15,
+    "brand": "Samsung",
+    "category": "smartphones",
+    "thumbnail": "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-jwsoykFqwGA/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-hand-holds-a-smartphone-displaying-its-screen-no6Kv3BVqYM/download?force=true",
+      "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-hWSNT_Pp4x4/download?force=true",
+      "https://unsplash.com/photos/a-hand-holds-up-a-smartphone-_Q5HFTpOvDI/download?force=true"
+    ]
+  },
+  "p5": {
+    "id": "p5",
+    "title": "Motorola Edge 40 Pro 256GB",
+    "description": "Motorola Edge 40 Pro con 256GB de almacenamiento, procesador Snapdragon 8 Gen 2, pantalla pOLED de 6.7 pulgadas, sistema de cámaras de 50MP y carga rápida de 125W.",
+    "price": 649999,
+    "discountPercentage": 8,
+    "stock": 20,
+    "brand": "Motorola",
+    "category": "smartphones",
+    "thumbnail": "https://unsplash.com/photos/a-person-is-holding-a-smartphone-vmGffGNNYwM/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-hand-holds-a-smartphone-displaying-its-screen-no6Kv3BVqYM/download?force=true",
+      "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-jwsoykFqwGA/download?force=true",
+      "https://unsplash.com/photos/a-person-holding-a-cell-phone-in-their-hand-hWSNT_Pp4x4/download?force=true"
+    ]
+  },
+  "p6": {
+    "id": "p6",
+    "title": "MacBook Pro 14\" M3 Pro",
+    "description": "MacBook Pro de 14 pulgadas con chip M3 Pro, 16GB de RAM, 512GB de SSD, pantalla Liquid Retina XDR, Magic Keyboard con Touch ID y batería de hasta 18 horas.",
+    "price": 1499999,
+    "discountPercentage": 7,
+    "stock": 8,
+    "brand": "Apple",
+    "category": "notebooks",
+    "thumbnail": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-eWoOL5g4QuY/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/30k-laptop-on-desk-pictures-e.g.-https://unsplash.com/photos/eWoOL5g4QuY/download?force=true"
+    ]
+  },
+
+  "p7": {
+    "id": "p7",
+    "title": "Lenovo ThinkPad X1 Carbon",
+    "description": "Lenovo ThinkPad X1 Carbon Gen 11 con Intel Core i7, 16GB de RAM, 1TB de SSD, pantalla de 14 pulgadas WQUXGA, Windows 11 Pro y teclado retroiluminado.",
+    "price": 1099999,
+    "discountPercentage": 15,
+    "stock": 12,
+    "brand": "Lenovo",
+    "category": "notebooks",
+    "thumbnail": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-desk-FoO0OQkhsCk/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-black-laptop-computer-sitting-on-top-of-a-desk-b2Wmty3cRRY/download?force=true",
+      "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-table-7bwQXzbF6KE/download?force=true",
+      "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-table-7E-cq-qjUgY/download?force=true"
+    ]
+  },
+  "p8": {
+    "id": "p8",
+    "title": "Heladera Samsung RF28 Family Hub",
+    "description": "Heladera Samsung Family Hub con pantalla táctil, 765 litros, freezer inferior, dispensador de agua y hielo, WiFi y control por voz.",
+    "price": 1249999,
+    "discountPercentage": 10,
+    "stock": 5,
+    "brand": "Samsung",
+    "category": "electrodomésticos",
+    "thumbnail": "https://unsplash.com/photos/a-stainless-steel-refrigerator-standing-next-to-a-counter-QgY0dY9-hsA/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-stainless-steel-refrigerator-standing-next-to-a-counter-0Gq2lWoN0mE/download?force=true",
+      "https://unsplash.com/photos/a-stainless-steel-refrigerator-in-a-kitchen-DcZ9dqdy5n0/download?force=true",
+      "https://unsplash.com/photos/a-refrigerator-in-a-kitchen-with-wood-cabinets-NFvfxv4v2Xc/download?force=true"
+    ]
+  },
+  "p9": {
+    "id": "p9",
+    "title": "Lavarropas Whirlpool 10kg",
+    "description": "Lavarropas Whirlpool de carga frontal, 10kg de capacidad, 1400 RPM, 14 programas de lavado, eficiencia energética A+++ y sistema anti-manchas.",
+    "price": 499999,
+    "discountPercentage": 12,
+    "stock": 15,
+    "brand": "Whirlpool",
+    "category": "electrodomésticos",
+    "thumbnail": "https://unsplash.com/photos/a-white-washing-machine-sitting-next-to-a-basket-of-clothes-jY9mXvA2WYs/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-white-front-loading-washing-machine-sitting-next-to-a-basket-of-laundry-NVJiP5Or1XQ/download?force=true",
+      "https://unsplash.com/photos/a-white-front-load-washing-machine-in-a-laundry-room-7e2pe9wjL9M/download?force=true",
+      "https://unsplash.com/photos/a-white-front-loading-washing-machine-in-a-bathroom-tEDFcqxuU9Y/download?force=true"
+    ]
+  },
+  "p10": {
+    "id": "p10",
+    "title": "Microondas BGH Quick Chef",
+    "description": "Microondas BGH Quick Chef de 28 litros, 900W de potencia, 10 niveles de potencia, grill, display digital y programa de descongelamiento rápido.",
+    "price": 129999,
+    "discountPercentage": 5,
+    "stock": 25,
+    "brand": "BGH",
+    "category": "electrodomésticos",
+    "thumbnail": "https://unsplash.com/photos/a-microwave-oven-sitting-on-top-of-a-counter-5mAqYBj3L6E/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-microwave-oven-sitting-on-top-of-a-counter-cdI4oLAiYMQ/download?force=true",
+      "https://unsplash.com/photos/a-microwave-oven-sitting-on-top-of-a-kitchen-counter--Ad6Cw1EnlE/download?force=true",
+      "https://unsplash.com/photos/a-microwave-oven-on-top-of-a-counter-in-a-kitchen-M_LYkbXwdA8/download?force=true"
+    ]
+  },
+  "p11": {
+    "id": "p11",
+    "title": "Auriculares Sony WH-1000XM5",
+    "description": "Auriculares inalámbricos Sony WH-1000XM5 con cancelación de ruido adaptativa, hasta 30 horas de batería, audio de alta resolución y micrófono con tecnología de reducción de ruido.",
+    "price": 249999,
+    "discountPercentage": 15,
+    "stock": 20,
+    "brand": "Sony",
+    "category": "audio",
+    "thumbnail": "https://unsplash.com/photos/black-and-silver-wireless-headphones-on-a-yellow-background-sYhy3zTzo_s/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-pair-of-black-wireless-headphones-on-a-white-surface-VDX2pCcm_Qk/download?force=true",
+      "https://unsplash.com/photos/a-pair-of-black-wireless-headphones-sitting-on-top-of-a-yellow-surface-gJ8V1qcrJd8/download?force=true",
+      "https://unsplash.com/photos/black-over-ear-headphones-on-a-brown-background-2iJuNE5vC8s/download?force=true"
+    ]
+  },
+  "p12": {
+    "id": "p12",
+    "title": "Parlante JBL Boombox 3",
+    "description": "Parlante portátil JBL Boombox 3 con batería de 24 horas, resistente al agua IP67, bluetooth, potencia de 80W y graves mejorados.",
+    "price": 219999,
+    "discountPercentage": 8,
+    "stock": 15,
+    "brand": "JBL",
+    "category": "audio",
+    "thumbnail": "https://unsplash.com/photos/a-black-portable-speaker-sitting-on-top-of-a-table-1vHLephz1Cw/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-black-portable-bluetooth-speaker-sitting-on-top-of-a-rock-1guSvw6qU2A/download?force=true",
+      "https://unsplash.com/photos/a-black-portable-speaker-sitting-on-top-of-a-table-X5e_hsjd1l8/download?force=true",
+      "https://unsplash.com/photos/a-black-bluetooth-speaker-sitting-on-top-of-a-table-Qp4QjD3s3vM/download?force=true"
+    ]
+  },
+  "p13": {
+    "id": "p13",
+    "title": "PlayStation 5 Digital Edition",
+    "description": "Consola PlayStation 5 Digital Edition con SSD de 825GB, raytracing, resolución 4K, HDR, control DualSense y audio 3D.",
+    "price": 599999,
+    "discountPercentage": 5,
+    "stock": 10,
+    "brand": "Sony",
+    "category": "gaming",
+    "thumbnail": "https://unsplash.com/photos/a-sony-playstation-5-on-a-table-Nrp2j8nQ0xQ/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-sony-playstation-5-console-on-a-table-h43AOpX2P3g/download?force=true",
+      "https://unsplash.com/photos/a-sony-playstation-5-console-on-a-wooden-surface-fu0YFV1PePg/download?force=true",
+      "https://unsplash.com/photos/a-sony-playstation-5-console-on-a-wooden-surface-X_YFJjFs1yM/download?force=true"
+    ]
+  },
+  "p14": {
+    "id": "p14",
+    "title": "Xbox Series X",
+    "description": "Consola Xbox Series X con SSD de 1TB, resolución 4K a 120fps, Quick Resume, raytracing y retrocompatibilidad con juegos de generaciones anteriores.",
+    "price": 649999,
+    "discountPercentage": 7,
+    "stock": 8,
+    "brand": "Microsoft",
+    "category": "gaming",
+    "thumbnail": "https://unsplash.com/photos/a-microsoft-xbox-series-x-on-a-wooden-table-Kd4uWkz1rkM/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-microsoft-xbox-series-x-console-on-a-table-9VsR5dVtDTg/download?force=true",
+      "https://unsplash.com/photos/a-microsoft-xbox-series-x-console-on-a-wooden-table-WCgh1JrQwA4/download?force=true",
+      "https://unsplash.com/photos/a-microsoft-xbox-series-x-console-on-a-white-surface-Qdcn-GkU7bU/download?force=true"
+    ]
+  },
+  "p15": {
+    "id": "p15",
+    "title": "Nintendo Switch OLED",
+    "description": "Consola Nintendo Switch OLED con pantalla de 7 pulgadas, 64GB de almacenamiento, soporte ajustable mejorado, audio optimizado y dock con puerto LAN.",
+    "price": 329999,
+    "discountPercentage": 10,
+    "stock": 15,
+    "brand": "Nintendo",
+    "category": "gaming",
+    "thumbnail": "https://unsplash.com/photos/a-nintendo-switch-console-sitting-on-top-of-a-table-3y6FZQ0OyGg/download?force=true",
+    "images": [
+      "https://unsplash.com/photos/a-nintendo-switch-console-sitting-on-top-of-a-table-rkzThmOkJqY/download?force=true",
+      "https://unsplash.com/photos/a-nintendo-switch-console-sitting-on-top-of-a-table-DZr6wLGR_pE/download?force=true",
+      "https://unsplash.com/photos/a-nintendo-switch-console-sitting-on-top-of-a-table-OP9s6WqNN7E/download?force=true"
+    ]
+  }
+}
